@@ -1,0 +1,161 @@
+Region,Customer_Segment,Product_Category,Product_Sub-Category,Sales,Profit,Total_Sales,Total_Profit,Sub-Category_Sales_%,Sub-Category_Profit_%
+Atlantic,Consumer,Furniture,Office Furnishings,678.77,43.83999999999999,3434.94,-1517.88,19.76075273512783,-69.44657955418911
+Atlantic,Consumer,Furniture,Tables,2756.17,-1561.72,3434.94,-1517.88,80.23924726487218,134.54439808206146
+Atlantic,Consumer,Office Supplies,Appliances,8745.71,3580.43,31471.11,2940.71,27.789645805311597,34.90218147212767
+Atlantic,Consumer,Office Supplies,Binders And Binder Accessories,2372.2,-201.67000000000002,31471.11,2940.71,7.537706804748863,9.157707502891874
+Atlantic,Consumer,Office Supplies,Envelopes,92.06,5.66,31471.11,2940.71,0.29252225294881556,39.52459265302837
+Atlantic,Consumer,Office Supplies,Labels,241.79,85.28,31471.11,2940.71,0.7682919350477311,51.317699844079755
+Atlantic,Consumer,Office Supplies,Paper,8131.97,1807.26,31471.11,2940.71,25.839476268870087,20.142780464606634
+Atlantic,Consumer,Office Supplies,Storage & Organization,11887.380000000001,-2336.25,31471.11,2940.71,37.772356933072906,42.403767802365586
+Atlantic,Consumer,Technology,Computer Peripherals,985.69,46.28,9553.178,762.8499999999999,10.317927709501488,37.45345173302779
+Atlantic,Consumer,Technology,Office Machines,1337.1499999999999,-141.94,9553.178,762.8499999999999,13.996912859783414,1.340986651278504
+Atlantic,Consumer,Technology,Telephones And Communication,7230.338000000001,858.51,9553.178,762.8499999999999,75.6851594307151,10.407264028004418
+Atlantic,Corporate,Furniture,Office Furnishings,22432.78,1461.49,29126.06,1501.8100000000002,77.01961748344952,88.25174932071708
+Atlantic,Corporate,Furniture,Tables,6693.28,40.32,29126.06,1501.8100000000002,22.980382516550467,8.01580957456257
+Atlantic,Corporate,Office Supplies,Appliances,13027.85,2137.89,42326.52,6481.8,30.779402606214735,1.6825187193240572
+Atlantic,Corporate,Office Supplies,Binders And Binder Accessories,18178.739999999998,4248.05,42326.52,6481.8,42.94881790423592,90.30167170611337
+Atlantic,Corporate,Office Supplies,Envelopes,2231.3,555.3199999999999,42326.52,6481.8,5.271635844383145,20.866219185069458
+Atlantic,Corporate,Office Supplies,Labels,171.94,51.71,42326.52,6481.8,0.40622285980515294,18.38079644743559
+Atlantic,Corporate,Office Supplies,Paper,7463.11,104.90999999999991,42326.52,6481.8,17.632231518206552,60.75298436749495
+Atlantic,Corporate,Office Supplies,Storage & Organization,1253.58,-616.0799999999999,42326.52,6481.8,2.9616892671544934,75.51440493381948
+Atlantic,Corporate,Technology,Computer Peripherals,14070.83,1288.96,119612.756,8415.8,11.763653368207653,24.48559506618052
+Atlantic,Corporate,Technology,Copiers And Fax,50927.46,-5391.59,119612.756,8415.8,42.576947227936124,2.6237506189040474
+Atlantic,Corporate,Technology,Office Machines,7525.18,2611.32,119612.756,8415.8,6.291285521420475,93.74776087560332
+Atlantic,Corporate,Technology,Telephones And Communication,47089.286,9907.11,119612.756,8415.8,39.36811388243575,3.628488505492648
+Atlantic,Home Office,Furniture,Chairs & Chairmats,4896.93,1467.82,5000.83,1448.56,97.92234489074815,100.0
+Atlantic,Home Office,Furniture,Office Furnishings,103.9,-19.26,5000.83,1448.56,2.0776551092518645,350.12358946802783
+Atlantic,Home Office,Office Supplies,Binders And Binder Accessories,7608.88,3049.45,7608.88,3049.45,100.0,-486.67562242521916
+Atlantic,Home Office,Technology,Computer Peripherals,360.24,-36.24,9587.2195,2693.45,3.757502370734289,236.55203295719141
+Atlantic,Home Office,Technology,Telephones And Communication,9226.9795,2729.69,9587.2195,2693.45,96.24249762926571,100.0
+Atlantic,Small Business,Furniture,Office Furnishings,684.66,35.09,684.66,35.09,100.0,100.0
+Atlantic,Small Business,Office Supplies,Paper,1128.6599999999999,272.33,1128.6599999999999,272.33,100.0,8.705288902476305
+Atlantic,Small Business,Technology,Copiers And Fax,4429.69,983.55,11670.287499999999,2309.31,37.95699120522952,-9.996942830938538
+Atlantic,Small Business,Technology,Telephones And Communication,7240.5975,1325.76,11670.287499999999,2309.31,62.04300879477048,101.29165392846222
+Northwest Territories,Consumer,Furniture,Office Furnishings,6743.91,830.3,6743.91,830.3,100.0,3.0944974913406824
+Northwest Territories,Consumer,Office Supplies,Binders And Binder Accessories,800.89,-132.95000000000002,5523.71,174.27999999999997,14.499131924014838,44.918581738480235
+Northwest Territories,Consumer,Office Supplies,Paper,1673.58,-338.31,5523.71,174.27999999999997,30.298114853965902,51.98692077017908
+Northwest Territories,Consumer,Office Supplies,Storage & Organization,3049.24,645.54,5523.71,174.27999999999997,55.202753222019254,35.66631908237748
+Northwest Territories,Consumer,Technology,Computer Peripherals,849.09,-176.14,26825.7245,9353.7,3.1652080822644693,64.33368091762252
+Northwest Territories,Consumer,Technology,Office Machines,16066.85,7416.43,26825.7245,9353.7,59.89344295249137,100.0
+Northwest Territories,Consumer,Technology,Telephones And Communication,9909.7845,2113.4100000000003,26825.7245,9353.7,36.94134896524417,-1.3794289645682831
+Northwest Territories,Corporate,Furniture,Chairs & Chairmats,31135.25,9050.27,44324.69,10521.67,70.24358207581372,-34.22428620571033
+Northwest Territories,Corporate,Furniture,Office Furnishings,13189.44,1471.3999999999999,44324.69,10521.67,29.756417924186273,135.60371517027858
+Northwest Territories,Corporate,Office Supplies,Appliances,12589.17,3734.32,54757.43,9268.41,22.990797778493256,16.559975651497084
+Northwest Territories,Corporate,Office Supplies,Binders And Binder Accessories,24781.510000000002,7977.0199999999995,54757.43,9268.41,45.256890252153916,-20.654316121403234
+Northwest Territories,Corporate,Office Supplies,Envelopes,2230.33,368.44,54757.43,9268.41,4.073109347900368,104.09434046990613
+Northwest Territories,Corporate,Office Supplies,Labels,1357.76,501.13,54757.43,9268.41,2.4795904409684675,44.951837317160184
+Northwest Territories,Corporate,Office Supplies,Paper,1692.59,-535.78,54757.43,9268.41,3.091069102403089,55.04816268283981
+Northwest Territories,Corporate,Office Supplies,Storage & Organization,12106.07,-2776.7200000000003,54757.43,9268.41,22.10854307808091,90.35973985456815
+Northwest Territories,Corporate,Technology,Computer Peripherals,7298.63,-554.02,124317.41100000001,30634.339999999997,5.8709636416093,39.676978089227006
+Northwest Territories,Corporate,Technology,Copiers And Fax,30003.850000000002,9715.83,124317.41100000001,30634.339999999997,24.134873593852433,-30.03671794379515
+Northwest Territories,Corporate,Technology,Office Machines,32114.230000000003,9092.0,124317.41100000001,30634.339999999997,25.83244755636039,4.681985373663942
+Northwest Territories,Corporate,Technology,Telephones And Communication,54900.701,12380.529999999999,124317.41100000001,30634.339999999997,44.161715208177874,61.609589337487556
+Northwest Territories,Home Office,Furniture,Chairs & Chairmats,905.94,-4.19,4628.23,946.4899999999999,19.574221678697906,33.7084252888485
+Northwest Territories,Home Office,Furniture,Office Furnishings,3722.29,950.68,4628.23,946.4899999999999,80.4257783213021,-2.1375131863860974
+Northwest Territories,Home Office,Office Supplies,Appliances,1368.14,171.26,2716.01,306.9,50.37315768351368,74.61110571317529
+Northwest Territories,Home Office,Office Supplies,Labels,199.39,101.13,2716.01,306.9,7.341283721341231,27.526407473210817
+Northwest Territories,Home Office,Office Supplies,Paper,101.21,2.13,2716.01,306.9,3.7264222149402983,-9.492930796215585
+Northwest Territories,Home Office,Office Supplies,Storage & Organization,1047.27,32.379999999999995,2716.01,306.9,38.559136380204784,123.43967883741145
+Northwest Territories,Small Business,Furniture,Office Furnishings,440.92,-65.18,440.92,-65.18,100.0,-13.946748041195855
+Northwest Territories,Small Business,Office Supplies,Appliances,237.28,-2088.68,4161.26,-2328.91,5.702119069704849,38.89005416476453
+Northwest Territories,Small Business,Office Supplies,Binders And Binder Accessories,917.39,393.41,4161.26,-2328.91,22.04596684658012,61.10994583523548
+Northwest Territories,Small Business,Office Supplies,Paper,866.49,131.42,4161.26,-2328.91,20.822779638859384,
+Northwest Territories,Small Business,Office Supplies,Storage & Organization,2140.1000000000004,-765.0600000000001,4161.26,-2328.91,51.42913444485565,
+Northwest Territories,Small Business,Technology,Office Machines,701.46,-90.14,701.46,-90.14,100.0,
+Nunavut,Consumer,Office Supplies,Appliances,1397.33,302.71999999999997,2668.0299999999997,160.39999999999998,52.373099253006906,
+Nunavut,Consumer,Office Supplies,Binders And Binder Accessories,405.02,-22.519999999999996,2668.0299999999997,160.39999999999998,15.180488975011528,
+Nunavut,Consumer,Office Supplies,Labels,59.03,26.92,2668.0299999999997,160.39999999999998,2.2124938625127903,
+Nunavut,Consumer,Office Supplies,Storage & Organization,806.6500000000001,-146.72,2668.0299999999997,160.39999999999998,30.233917909468786,
+Nunavut,Corporate,Furniture,Chairs & Chairmats,6396.2,1902.24,7359.26,1954.74,86.91362990300655,
+Nunavut,Corporate,Furniture,Office Furnishings,963.0600000000001,52.5,7359.26,1954.74,13.086370096993448,
+Nunavut,Corporate,Office Supplies,Appliances,328.58,-443.86,16759.71,-2717.1099999999997,1.9605351166577463,
+Nunavut,Corporate,Office Supplies,Binders And Binder Accessories,1181.37,-375.51,16759.71,-2717.1099999999997,7.048868984009866,
+Nunavut,Corporate,Office Supplies,Envelopes,751.77,353.2,16759.71,-2717.1099999999997,4.485578807747867,
+Nunavut,Corporate,Office Supplies,Labels,296.83,141.32999999999998,16759.71,-2717.1099999999997,1.7710926979046773,
+Nunavut,Corporate,Office Supplies,Paper,893.4399999999999,-65.13000000000001,16759.71,-2717.1099999999997,5.330879830259592,
+Nunavut,Corporate,Office Supplies,"Scissors, Rulers And Trimmers",9620.82,-1759.58,16759.71,-2717.1099999999997,57.40445389568196,
+Nunavut,Corporate,Office Supplies,Storage & Organization,3686.9,-567.56,16759.71,-2717.1099999999997,21.998590667738284,
+Nunavut,Corporate,Technology,Telephones And Communication,9101.868,1320.67,9101.868,1320.67,100.0,
+Nunavut,Home Office,Office Supplies,Paper,49.59,-8.38,49.59,-8.38,100.0,
+Nunavut,Small Business,Office Supplies,Paper,368.04,70.39,368.04,70.39,100.0,
+Ontario,Consumer,Furniture,Office Furnishings,12.74,-11.39,12.74,-11.39,100.0,
+Ontario,Consumer,Office Supplies,Binders And Binder Accessories,861.16,-204.74,1815.12,13.079999999999986,47.44369518268765,
+Ontario,Consumer,Office Supplies,Envelopes,945.36,219.85,1815.12,13.079999999999986,52.08250694168981,
+Ontario,Consumer,Office Supplies,Labels,8.6,-2.03,1815.12,13.079999999999986,0.4737978756225484,
+Ontario,Consumer,Technology,Telephones And Communication,618.1965,-132.53,618.1965,-132.53,100.0,
+Ontario,Corporate,Furniture,Office Furnishings,1972.63,553.73,1972.63,553.73,100.0,
+Ontario,Corporate,Office Supplies,Appliances,18224.11,5969.620000000001,35723.24,8037.740000000001,51.014717590005844,
+Ontario,Corporate,Office Supplies,Binders And Binder Accessories,9612.27,1601.02,35723.24,8037.740000000001,26.90760972408998,
+Ontario,Corporate,Office Supplies,Envelopes,743.74,336.14,35723.24,8037.740000000001,2.081950013492617,
+Ontario,Corporate,Office Supplies,Labels,23.84,5.88,35723.24,8037.740000000001,0.06673526813357356,
+Ontario,Corporate,Office Supplies,Paper,3765.17,837.9000000000001,35723.24,8037.740000000001,10.539833452956676,
+Ontario,Corporate,Office Supplies,Storage & Organization,3354.1099999999997,-712.82,35723.24,8037.740000000001,9.389153951321324,
+Ontario,Corporate,Technology,Computer Peripherals,1864.8300000000002,-117.74000000000001,35958.646,9302.55,5.186040653477331,
+Ontario,Corporate,Technology,Office Machines,14028.07,5609.68,35958.646,9302.55,39.01167468875219,
+Ontario,Corporate,Technology,Telephones And Communication,20065.746,3810.61,35958.646,9302.55,55.802284657770485,
+Ontario,Home Office,Office Supplies,Appliances,772.56,143.87,1404.35,-85.51000000000002,55.01192722611884,
+Ontario,Home Office,Office Supplies,Paper,108.21,-50.02,1404.35,-85.51000000000002,7.705344109374444,
+Ontario,Home Office,Office Supplies,Storage & Organization,523.58,-179.36,1404.35,-85.51000000000002,37.28272866450671,
+Ontario,Home Office,Technology,Computer Peripherals,1307.35,-154.24,1307.35,-154.24,100.0,
+Ontario,Small Business,Office Supplies,Storage & Organization,2915.5,-1147.97,2915.5,-1147.97,100.0,
+Prarie,Consumer,Furniture,Office Furnishings,1436.55,-4.01,1436.55,-4.01,100.0,
+Prarie,Consumer,Office Supplies,Binders And Binder Accessories,1975.77,270.78000000000003,2501.1099999999997,-99.48999999999995,78.99572589770143,
+Prarie,Consumer,Office Supplies,Paper,525.3399999999999,-370.27,2501.1099999999997,-99.48999999999995,21.004274102298577,
+Prarie,Consumer,Technology,Computer Peripherals,2051.4,-336.02000000000004,8650.3095,394.1999999999999,23.71475841413536,
+Prarie,Consumer,Technology,Office Machines,342.85,-32.42,8650.3095,394.1999999999999,3.963442001699477,
+Prarie,Consumer,Technology,Telephones And Communication,6256.0595,762.6399999999999,8650.3095,394.1999999999999,72.32179958416518,
+Prarie,Corporate,Furniture,Office Furnishings,7273.73,1362.7,9235.41,995.7,78.75914550626338,
+Prarie,Corporate,Furniture,Tables,1961.68,-367.0,9235.41,995.7,21.24085449373661,
+Prarie,Corporate,Office Supplies,Appliances,3685.85,53.89999999999998,27379.52,-1241.88,13.46206945921623,
+Prarie,Corporate,Office Supplies,Binders And Binder Accessories,1635.91,-213.60000000000002,27379.52,-1241.88,5.9749403934035366,
+Prarie,Corporate,Office Supplies,Envelopes,1540.81,-21.88000000000001,27379.52,-1241.88,5.627600483865312,
+Prarie,Corporate,Office Supplies,Labels,76.94,29.67,27379.52,-1241.88,0.2810129615128388,
+Prarie,Corporate,Office Supplies,Paper,5651.860000000001,-63.20000000000006,27379.52,-1241.88,20.642655532310282,
+Prarie,Corporate,Office Supplies,Storage & Organization,14788.15,-1026.77,27379.52,-1241.88,54.011721169691796,
+Prarie,Corporate,Technology,Computer Peripherals,7387.07,1466.72,29282.1665,6258.87,25.22719758457763,
+Prarie,Corporate,Technology,Office Machines,225.46,-33.03,29282.1665,6258.87,0.7699566901923053,
+Prarie,Corporate,Technology,Telephones And Communication,21669.6365,4825.18,29282.1665,6258.87,74.00284572523007,
+Prarie,Home Office,Furniture,Office Furnishings,1981.26,100.8,1981.26,100.8,100.0,
+Prarie,Home Office,Office Supplies,Appliances,605.1,92.81,979.77,123.44,61.75939251048715,
+Prarie,Home Office,Office Supplies,Paper,374.67,30.63,979.77,123.44,38.24060748951285,
+Prarie,Small Business,Furniture,Office Furnishings,1452.48,376.52,1452.48,376.52,100.0,
+Prarie,Small Business,Office Supplies,Binders And Binder Accessories,55.59,-17.95,3610.88,165.33,1.539513913505849,
+Prarie,Small Business,Office Supplies,Storage & Organization,3555.29,183.28,3610.88,165.33,98.46048608649414,
+Prarie,Small Business,Technology,Computer Peripherals,136.68,-125.16,136.68,-125.16,100.0,
+West,Consumer,Furniture,Office Furnishings,10066.49,588.94,14703.11,270.49000000000007,68.46503902915777,
+West,Consumer,Furniture,Tables,4636.62,-318.45,14703.11,270.49000000000007,31.534960970842217,
+West,Consumer,Office Supplies,Appliances,3527.87,216.61,24556.54,3559.34,14.366315449977888,
+West,Consumer,Office Supplies,Binders And Binder Accessories,11439.42,2778.4300000000003,24556.54,3559.34,46.584005727191204,
+West,Consumer,Office Supplies,Envelopes,594.36,-72.17999999999999,24556.54,3559.34,2.4203735542547933,
+West,Consumer,Office Supplies,Labels,255.67000000000002,96.8,24556.54,3559.34,1.041148305095099,
+West,Consumer,Office Supplies,Paper,3472.2200000000003,949.41,24556.54,3559.34,14.139695576005415,
+West,Consumer,Office Supplies,Storage & Organization,5267.000000000001,-409.73,24556.54,3559.34,21.4484613874756,
+West,Consumer,Technology,Computer Peripherals,2464.75,42.120000000000005,45526.9425,1947.42,5.413827207921991,
+West,Consumer,Technology,Copiers And Fax,27663.92,-391.92,45526.9425,1947.42,60.76384330004151,
+West,Consumer,Technology,Office Machines,1120.27,16.81,45526.9425,1947.42,2.4606747971269978,
+West,Consumer,Technology,Telephones And Communication,14278.0025,2280.41,45526.9425,1947.42,31.361654694909507,
+West,Corporate,Furniture,Chairs & Chairmats,2747.09,-251.2,17799.47,-615.98,15.433549425909874,
+West,Corporate,Furniture,Office Furnishings,8050.3,1275.73,17799.47,-615.98,45.227751163377334,
+West,Corporate,Furniture,Tables,7002.08,-1640.51,17799.47,-615.98,39.338699410712785,
+West,Corporate,Office Supplies,Appliances,30731.16,8210.24,96250.35,21501.13,31.928361818944033,
+West,Corporate,Office Supplies,Binders And Binder Accessories,24550.03,7158.26,96250.35,21501.13,25.506431924663133,
+West,Corporate,Office Supplies,Envelopes,9523.26,2895.55,96250.35,21501.13,9.894260124768376,
+West,Corporate,Office Supplies,Labels,802.9,258.78,96250.35,21501.13,0.8341787848044189,
+West,Corporate,Office Supplies,Paper,9860.5,-681.5500000000001,96250.35,21501.13,10.244638071445973,
+West,Corporate,Office Supplies,Pens & Art Supplies,679.95,-93.3,96250.35,21501.13,0.7064389895725055,
+West,Corporate,Office Supplies,Storage & Organization,20102.55,3753.15,96250.35,21501.13,20.885690285801555,
+West,Corporate,Technology,Computer Peripherals,25494.04,3694.6000000000004,104055.9865,7932.450000000001,24.500310705333614,
+West,Corporate,Technology,Copiers And Fax,27480.08,-2975.1899999999996,104055.9865,7932.450000000001,26.408937077349222,
+West,Corporate,Technology,Office Machines,6588.539999999999,2383.7200000000003,104055.9865,7932.450000000001,6.331726046343331,
+West,Corporate,Technology,Telephones And Communication,44493.3265,4829.32,104055.9865,7932.450000000001,42.75902617097383,
+West,Home Office,Furniture,Office Furnishings,1476.39,-303.62,1476.39,-303.62,100.0,
+West,Home Office,Office Supplies,Binders And Binder Accessories,125.54,-15.74,14249.01,3948.07,0.8810436654897428,
+West,Home Office,Office Supplies,Envelopes,2833.19,1409.87,14249.01,3948.07,19.8834164619156,
+West,Home Office,Office Supplies,Paper,2786.84,1051.23,14249.01,3948.07,19.558130705220925,
+West,Home Office,Office Supplies,Storage & Organization,8503.44,1502.71,14249.01,3948.07,59.67740916737374,
+West,Home Office,Technology,Computer Peripherals,264.63,-66.78,19374.24,-446.07000000000005,1.3658858360379553,
+West,Home Office,Technology,Copiers And Fax,19109.61,-379.29,19374.24,-446.07000000000005,98.63411416396204,
+West,Small Business,Office Supplies,Appliances,2564.45,650.73,2614.0,630.4,98.1044376434583,
+West,Small Business,Office Supplies,Paper,49.55,-20.33,2614.0,630.4,1.8955623565416986,
+West,Small Business,Technology,Computer Peripherals,939.77,9.72,5395.385,990.58,17.418034116193745,
+West,Small Business,Technology,Telephones And Communication,4455.615,980.86,5395.385,990.58,82.58196588380625,
