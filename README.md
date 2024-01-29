@@ -1,2 +1,3 @@
 # Sales_Analysis
-![Dashboard](assets/First_Section.png)
+![Dashboard](dashboard/assets/First_Section.png)
+
